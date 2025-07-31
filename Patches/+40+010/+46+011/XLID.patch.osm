@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-39738' action='modify' lat='46.55208606141' lon='11.8628207251' />
+  <node id='-39740' action='modify' lat='46.55244102703' lon='11.86831201712' />
+  <node id='-39742' action='modify' lat='46.55273651604' lon='11.86827162777' />
+  <node id='-39744' action='modify' lat='46.55238155235' lon='11.86278033574'>
+    <tag k='alt_abs' v='1541.93' />
+  </node>
+  <node id='-39746' action='modify' lat='46.55234211792' lon='11.86249851912' />
+  <node id='-39748' action='modify' lat='46.55227940377' lon='11.86225175589' />
+  <node id='-39750' action='modify' lat='46.55220193325' lon='11.86202913254' />
+  <node id='-39752' action='modify' lat='46.55212999625' lon='11.86191916198' />
+  <node id='-39754' action='modify' lat='46.55204514735' lon='11.8618360135' />
+  <node id='-39756' action='modify' lat='46.55196952104' lon='11.86179309815' />
+  <node id='-39758' action='modify' lat='46.55187176005' lon='11.86179041594' />
+  <way id='-39856' action='modify'>
+    <nd ref='-39738' />
+    <nd ref='-39740' />
+    <nd ref='-39742' />
+    <nd ref='-39744' />
+    <nd ref='-39738' />
+    <tag k='altitude_high' v='1541.93' />
+    <tag k='altitude_low' v='1526.54' />
+  </way>
+  <way id='-39858' action='modify'>
+    <nd ref='-39744' />
+    <nd ref='-39746' />
+    <nd ref='-39748' />
+    <nd ref='-39750' />
+    <nd ref='-39752' />
+    <nd ref='-39754' />
+    <nd ref='-39756' />
+    <nd ref='-39758' />
+  </way>
+</osm>

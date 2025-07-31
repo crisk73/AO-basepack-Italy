@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-38980' action='modify' lat='45.83277174127' lon='7.61574074128' />
+  <node id='-38982' action='modify' lat='45.83332167955' lon='7.61548390038' />
+  <node id='-38984' action='modify' lat='45.83457169758' lon='7.61984687387' />
+  <node id='-38986' action='modify' lat='45.83347040885' lon='7.61981792456' />
+  <node id='-38988' action='modify' lat='45.83318398953' lon='7.61852099537' />
+  <node id='-38990' action='modify' lat='45.83347847698' lon='7.61851013938' />
+  <node id='-38992' action='modify' lat='45.83409518109' lon='7.61849638846' />
+  <node id='-38994' action='modify' lat='45.83457371457' lon='7.61849783592' />
+  <node id='3562896901' action='delete' timestamp='2015-06-01T08:05:26Z' user='venerdi' version='1' lat='45.8328555' lon='7.6159557' />
+  <node id='3562896902' action='delete' timestamp='2015-06-01T08:05:26Z' user='venerdi' version='1' lat='45.8333896' lon='7.6158513' />
+  <node id='3562896907' action='delete' timestamp='2015-06-01T08:05:27Z' user='venerdi' version='1' lat='45.8340468' lon='7.6185098' />
+  <way id='-38999' action='modify'>
+    <nd ref='-38990' />
+    <nd ref='-38980' />
+    <nd ref='-38982' />
+    <nd ref='-38992' />
+    <nd ref='-38990' />
+    <tag k='altitude_high' v='1762' />
+    <tag k='altitude_low' v='1725' />
+    <tag k='profile' v='spline' />
+  </way>
+  <way id='-39001' action='modify'>
+    <nd ref='-38984' />
+    <nd ref='-38986' />
+    <nd ref='-38988' />
+    <nd ref='-38990' />
+    <nd ref='-38992' />
+    <nd ref='-38994' />
+    <nd ref='-38984' />
+    <tag k='altitude' v='1762' />
+  </way>
+</osm>
