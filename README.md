@@ -1,5 +1,9 @@
 # AO base pack Italy and Alps
-This is a hi-res mesh XP12 compatible base package for AutoOrtho covering Italy and Alps. Patches are used for some sloped airports (such as Courchevel). I'd like to share those pre-built tiles to be used either with AO or ME.
+This is a hi-res mesh XP12 compatible base package for AutoOrtho covering Italy and Alps.
+
+The reason I made it is mainly because coastline is broken in the to date AO and ME base packages. Here I've applied XP12 water tech for bathymetry and coastlines look fine. The other reason is because I wanted to improve the Alps mesh. Patches are used for the main sloped airports (such as Courchevel).
+
+I'd like to share those pre-built tiles to be used either with AO or ME and also to be further improved or additional areas to be created.
 
 Hi-res mesh can be found here: [Coverage map viewfinderpanoramas.org](https://viewfinderpanoramas.org/dem1d.html) You need to manually copy elevation data files in each correct XX+XXX folder inside the Elevation_data folder in O4XP.
 
