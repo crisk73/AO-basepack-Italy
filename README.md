@@ -5,7 +5,7 @@ The reason I made it is mainly because coastline is broken in the to date AO and
 
 I'd like to share those pre-built tiles to be used either with AO or ME and also to be further improved or additional areas to be created.
 
-Hi-res mesh can be found here: [Coverage map viewfinderpanoramas.org](https://viewfinderpanoramas.org/dem1d.html) You need to manually copy elevation data files in each correct XX+XXX folder inside the Elevation_data folder in O4XP.
+30m res mesh can be found here: [Coverage map viewfinderpanoramas.org](https://viewfinderpanoramas.org/dem1d.html) You need to manually copy elevation data files in each correct XX+XXX folder inside the Elevation_data folder in O4XP. Another good source of hi-res mesh is https://portal.opentopography.org/dataCatalog?group=global
 
 Settings to pre-build tiles compatible with AO and ME are included. Remember to set skip_download and skip_converts to True in the O4XP App settings.
 
